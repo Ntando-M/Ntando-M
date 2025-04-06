@@ -33,6 +33,9 @@ I'm a curious and motivated web developer with a passion for technology and inno
 ## 📌 Projects
 
 - **Portfolio Website** – A personal portfolio built with HTML, CSS & JS  
+- **Event Planning Interactive Website for EPI-USE #BIKES4ERP initiative** -
+  An events planning website built in Angular and Ionic for mobile.
+- A personal portfolio built with HTML, CSS & JS  
 - *(More coming soon!)*
 
 ---
