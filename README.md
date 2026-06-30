@@ -216,11 +216,11 @@ Distinctions:
 
 💼 **LinkedIn**
 
-(https://www.linkedin.com/in/ntando-moloi-2985881ba/)
+https://www.linkedin.com/in/ntando-moloi-2985881ba/
 
 🌐 **Portfolio**
 
-(https://github.com/Ntando-M)
+https://github.com/Ntando-M
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
