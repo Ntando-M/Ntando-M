@@ -8,7 +8,7 @@
 
 🎓 BIT Information Systems (University of Pretoria, 2024)
 
-💻 Building scalable software solutions with C#, ASP.NET, SQL Server & Azure
+💻 Building scalable software solutions with C#, ASP.NET, Python, SQL Server & Azure
 
 🌍 South Africa
 
